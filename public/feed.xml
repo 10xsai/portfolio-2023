@@ -4,24 +4,24 @@
         <description><![CDATA[Sai Krishna]]></description>
         <link>https://10xsai.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Sep 2024 19:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 14:48:55 GMT</lastBuildDate>
         <atom:link href="https://10xsai.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Sep 2024 19:39:46 GMT</pubDate>
+        <pubDate>Mon, 23 Sep 2024 14:48:55 GMT</pubDate>
         <copyright><![CDATA[All rights reserved 2024, Sai Krishna]]></copyright>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[learn basic git commands]]></title>
-            <description><![CDATA[This post contains basic commands of git.]]></description>
-            <link>https://10xsai.github.io/blog/learn-basic-git-commands</link>
-            <guid isPermaLink="true">https://10xsai.github.io/blog/learn-basic-git-commands</guid>
-            <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[React useReducer hook Simplified]]></title>
             <description><![CDATA[React useReducer hook Simplified]]></description>
             <link>https://10xsai.github.io/blog/react-use-reducer-simplified</link>
             <guid isPermaLink="true">https://10xsai.github.io/blog/react-use-reducer-simplified</guid>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[learn basic git commands]]></title>
+            <description><![CDATA[This post contains basic commands of git.]]></description>
+            <link>https://10xsai.github.io/blog/learn-basic-git-commands</link>
+            <guid isPermaLink="true">https://10xsai.github.io/blog/learn-basic-git-commands</guid>
+            <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lazy Initilization and storing functions in React useState hook]]></title>
