@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
           <link rel="preload" href="/fonts/outfit-v4-latin-700.woff2" as="font" type="font/woff" crossOrigin="" />
           <link rel="preload" href="/fonts/outfit-v4-latin-regular.woff2" as="font" type="font/woff" crossOrigin="" />
           <link rel="preload" as="image" href={`blob_bg.webp`} />
-          <link rel="icon" type="image/x-icon" href="avatar.png" />
+          <link rel="icon" type="image/x-icon" href="favicon.png" />
           <meta property="og:image" content="https://10xsai.github.io/api/og" />
 
           {process.env.NODE_ENV === 'production' && (

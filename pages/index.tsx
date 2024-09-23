@@ -34,7 +34,7 @@ const Home: NextPage = () => {
         description={seoDesc}
         openGraph={{
           title: seoTitle,
-          url: `https://10xsai.github.io/portfolio`,
+          url: `https://10xsai.com`,
           description: seoDesc,
           site_name: 'Portfolio | Sai Krishna',
           images: [{ url: 'http://localhost:3000/api/og', width: 800, height: 400, alt: 'Sai Krishna | Full Stack Developer' }],

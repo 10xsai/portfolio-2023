@@ -18,7 +18,7 @@ const Projects = ({ projects }: { projects: ProjectType[] }): JSX.Element => {
         description={seoDesc}
         openGraph={{
           title: seoTitle,
-          url: `https://10xsai.github.io/portfolio/projects/`,
+          url: `https://10xsai.com/projects/`,
           description: seoDesc,
           site_name: 'Sai Krishna',
         }}

@@ -54,7 +54,7 @@ export const projects: ProjectType[] = [
       '✨ SEO optimized',
     ],
     tagUrls: [imgPaths['Next.js'].path, imgPaths['Typescript'].path, imgPaths['Sass'].path],
-    links: ['https://github.com/10xsai/portfolio', 'https://10xsai.github.io/portfolio'],
+    links: ['https://github.com/10xsai/portfolio', 'https://10xsai.com'],
   },
 
   {

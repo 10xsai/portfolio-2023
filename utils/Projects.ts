@@ -18,12 +18,4 @@ export const projects = [
     tags: ['Next.js', 'Typescript', 'GraphQL', 'Apollo', 'PostgreSQL', 'Redis', 'TypeORM', 'Express', 'Docker'],
     links: [null, null],
   },
-  {
-    name: 'Personal Blog',
-    description:
-      'A simple blog app which supports markdown to write you blog posts and has image uploading, timeline and basic CRUD features',
-    videoSrc: 'https://res.cloudinary.com/dhysgd2qs/video/upload/v1667072035/screen-capture3_nfqldq_qnjs7g.mkv',
-    tags: ['Next.js', 'Typescript', 'Firebase'],
-    links: ['https://github.com/0xHecker/beddit-web', 'https://beddit.shanmukh.xyz'],
-  },
 ]

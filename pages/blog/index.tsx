@@ -44,7 +44,7 @@ const Blog = ({ posts }: BlogProps): JSX.Element => {
         description={seoDesc}
         openGraph={{
           title: seoTitle,
-          url: `https://10xsai.github.io/portfolio/blog/`,
+          url: `https://10xsai.com/blog/`,
           description: seoDesc,
           site_name: 'Sai Krishna',
         }}

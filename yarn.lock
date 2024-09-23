@@ -1675,7 +1675,7 @@
     deepmerge "^4.2.2"
     svgo "^2.8.0"
 
-"@svgr/webpack@^6.4.0":
+"@svgr/webpack@^6.5.1":
   version "6.5.1"
   resolved "https://registry.npmjs.org/@svgr/webpack/-/webpack-6.5.1.tgz"
   integrity sha512-cQ/AsnBkXPkEK8cLbv4Dm7JGXq2XrumKnL1dRpJD9rIO2fTIlJI9a1uCciYG1F2aUsox/hJQyNGbt3soDxSRkA==

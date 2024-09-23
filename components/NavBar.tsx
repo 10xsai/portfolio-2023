@@ -1,8 +1,7 @@
 import Link from 'next/link'
 import ToggleTheme from './ToggleTheme'
 import { useRouter } from 'next/router'
-import Image from 'next/image'
-import avatar from 'public/avatar.png'
+import Logo from 'public/portfolio_logo.svg'
 import styles from '../styles/header.module.scss'
 
 const links = [
@@ -20,7 +19,7 @@ const NavBar = (): JSX.Element => {
         <div className={styles.container}>
           <Link href="/">
             <a className={styles.logo}>
-              <Image src={avatar} alt="Sai Krishna" layout="fixed" width="35" height="50" priority placeholder="blur" />
+              <Logo height="55"></Logo>
             </a>
           </Link>
           <nav className={styles.nav}>

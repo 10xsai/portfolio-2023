@@ -79,7 +79,7 @@ const Post = ({ post, related }: PostProps): JSX.Element => {
 
   const seoTitle = `${post.title} | Sai Krishna`
   const seoDesc = `${post.summary}`
-  const url = `https://10xsai.github.io/portfolio/blog/${post.slug}`
+  const url = `https://10xsai.com/blog/${post.slug}`
 
   return (
     <Page>
@@ -94,10 +94,8 @@ const Post = ({ post, related }: PostProps): JSX.Element => {
           images: [
             {
               url: post.og
-                ? `https://10xsai.github.io/portfolio${post.og}`
-                : `https://image-og.10xsai.vercel.app/${encodeURIComponent(post.title)}?desc=${encodeURIComponent(
-                    seoDesc,
-                  )}&theme=dark.png`,
+                ? `https://10xsai.com${post.og}`
+                : `https://image-og.10xsai.vercel.app/${encodeURIComponent(post.title)}?desc=${encodeURIComponent(seoDesc)}&theme=dark.png`,
               alt: post.title,
             },
           ],
