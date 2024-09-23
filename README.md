@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Portfolio" src="https://github.com/10xsai/portfolio/blob/main/portfolio-latest.gif" width="90%">
+<img alt="Portfolio" src="https://github.com/10xsai/portfolio/blob/main/portfolio-2023.gif" width="90%">
 </div>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
